@@ -56,4 +56,11 @@
 | 25-01-2023    | Pembelian Barang            | 2,000.00      |                 |
 | 31-01-2023    | Akhir Bulan                 |               |                 |
 
+| tanggal      | hari pasaran       | Keterangan                                                      | Debit (Debet) | Kredit (Kredit)|
+| ------------ | ------------------ | --------------------------------------------------------------- | ------------- | -------------- |
+| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding           | Rp.2000       |                |
+| `2023.09.26` | Selasa Kliwon      | Pelajaran yang bisa diambil dari hari Senin kemarin             |               |                |
+| `2023.09.27` | Rabu Legi          |                                                                 |               |                |
+| `2023.09.28` | Kamis Paing        | Floating laba 100% lebih dari saldo, lalu stop out. Depo BCA    | Rp.200.000    |                |
+
 
