@@ -42,3 +42,18 @@
 | `2023.10.31` | Selasa Kliwon      | dimensions in pixels | [58](58.md)              |
 | `2023.11.01` | Rabu Legi          | --                   | [23](23.md)              |
 | `2023.11.02` | Kamis Paing        | weight               | [57](57.md)              |
+
+
+## Contoh Buku Besar dari ChatGPT
+| Tanggal       |   Keterangan                 | Debit (Debet) | Kredit (Kredit) |
+|---------------|-----------------------------|----------------|----------------|
+| 01-01-2023    | Awal Saldo Kas              | 10,000.00     |                 |
+| 02-01-2023    | Pembelian Barang            | 2,500.00      |                 |
+| 05-01-2023    | Penjualan Produk            |               | 5,000.00        |
+| 10-01-2023    | Biaya Listrik               | 200.00        |                 |
+| 15-01-2023    | Pembayaran Supplier         | 1,500.00      |                 |
+| 20-01-2023    | Penjualan Produk            |               | 3,000.00        |
+| 25-01-2023    | Pembelian Barang            | 2,000.00      |                 |
+| 31-01-2023    | Akhir Bulan                 |               |                 |
+
+
