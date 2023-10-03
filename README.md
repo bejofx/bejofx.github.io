@@ -1,66 +1,9 @@
-# BX
-## Catatan
-
-| tanggal      | hari pasaran       | momentum berita                                                 | masuk         | keluar    | total      |
-| ------------ | ------------------ | --------------------------------------------------------------- | ------------- | --------- | ---------- |
-| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding           | Rp.2000       |           | Rp.2000    |
-| `2023.09.26` | Selasa Kliwon      | Pelajaran yang bisa diambil dari hari Senin kemarin             |               |           |            |
-| `2023.09.27` | Rabu Legi          |                                                                 |               |           |            |
-| `2023.09.28` | Kamis Paing        | Floating laba 100% lebih dari saldo, lalu stop out. Depo BCA    | Rp.200.000    |           | Rp.202.000 |
-| `2023.09.29` | Jumat Pon          | Ada Mobil diambil leasing                                       |               |
-| `2023.09.30` | Sabtu Wage         |                                                                 |               |
-| `2023.10.01` | Minggu Kliwon      | proof                                                           |               |
-| `2023.10.02` | Senin Legi         | --                                                              |               |
-| `2023.10.03` | Selasa Paing       | annotations                                                     |               |
-| `2023.10.04` | Rabu Pon           | --                                                              |               |
-| `2023.10.05` | Kamis Wage         | --                                                              |               |
-| `2023.10.06` | Jumat Kliwon       | petname              |                          |
-| `2023.10.07` | Sabtu Legi         |   marker               |               |
-| `2023.10.08` | Minggu Paing       | --                   |                          |
-| `2023.10.09` | Senin Pon          | --                   |               |
-| `2023.10.10` | Selasa Wage        | --                   |              |
-| `2023.10.11` | Rabu Kliwon        | --                   |              |
-| `2023.10.12` | Kamis Legi         | --                   |            |
-| `2023.10.13` | Jumat Paing        | --                   |            |
-| `2023.10.14` | Sabtu Pon          | --                   |  |
-| `2023.10.15` | Minggu Wage        | --                   |               |
-| `2023.10.16` | Senin Kliwon       | --                   |               |
-| `2023.10.17` | Selasa Legi        | relay URL            | [75](75.md)              |
-| `2023.10.18` | Rabu Paing         |  |  |
-| `2023.10.19` | Kamis Pon          | --                   |               |
-| `2023.10.20` | Jumat Wage         | --                   |  |
-| `2023.10.21` | Sabtu Kliwon       | --                   | [58](58.md)              |
-| `2023.10.22` | Minggu Legi        | --                   | [13](13.md)              |
-| `2023.10.23` | Senin Paing        | --                   | [57](57.md)              |
-| `2023.10.24` | Selasa Pon         | currency, frequency  | [99](99.md)              |
-| `2023.10.25` | Rabu Wage          | protocol             | [48](48.md)              |
-| `2023.10.26` | Kamis Kliwon       | --                   | [23](23.md)              |
-| `2023.10.27` | Jumat Legi         | --                   | [42](42.md)              |
-| `2023.10.28` | Sabtu Paing        | --                   | [57](57.md)              |
-| `2023.10.29` | Minggu Pon         | --                   | [14](14.md)              |
-| `2023.10.30` | Senin Wage         | --                   | [23](23.md)              |
-| `2023.10.31` | Selasa Kliwon      | dimensions in pixels | [58](58.md)              |
-| `2023.11.01` | Rabu Legi          | --                   | [23](23.md)              |
-| `2023.11.02` | Kamis Paing        | weight               | [57](57.md)              |
-
-
-## Contoh Buku Besar dari ChatGPT
-| Tanggal       |   Keterangan                 | Debit (Debet) | Kredit (Kredit) |
-|---------------|-----------------------------|----------------|----------------|
-| 01-01-2023    | Awal Saldo Kas              | 10,000.00     |                 |
-| 02-01-2023    | Pembelian Barang            | 2,500.00      |                 |
-| 05-01-2023    | Penjualan Produk            |               | 5,000.00        |
-| 10-01-2023    | Biaya Listrik               | 200.00        |                 |
-| 15-01-2023    | Pembayaran Supplier         | 1,500.00      |                 |
-| 20-01-2023    | Penjualan Produk            |               | 3,000.00        |
-| 25-01-2023    | Pembelian Barang            | 2,000.00      |                 |
-| 31-01-2023    | Akhir Bulan                 |               |                 |
-
-| tanggal      | hari pasaran       | Keterangan                                                      | Debit (Debet) | Kredit (Kredit)|
-| ------------ | ------------------ | --------------------------------------------------------------- | ------------- | -------------- |
-| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding           | Rp.2000       |                |
-| `2023.09.26` | Selasa Kliwon      | Pelajaran yang bisa diambil dari hari Senin kemarin             |               |                |
-| `2023.09.27` | Rabu Legi          |                                                                 |               |                |
-| `2023.09.28` | Kamis Paing        | Floating laba 100% lebih dari saldo, lalu stop out. Depo BCA    | Rp.200.000    |                |
-
-
+## 7 lessons from The Art of War:
+1. Know your enemy. In order to defeat your enemy, you must know their strengths and weaknesses. You must also understand their motivations and strategies.
+2. Plan your campaign carefully. Before you go into battle, you must have a plan in place. This plan should include your goals, your objectives, and your strategies for achieving them.
+3. Be flexible. Things don't always go according to plan, so it's important to be flexible and adaptable. Be prepared to change your plans as needed.
+4. Use deception. Deception can be a powerful tool in warfare. It can be used to confuse and mislead your enemy.
+5. Use surprise. The element of surprise can give you a significant advantage in battle. Strive to attack your enemy when they are least expecting it.
+6. Use speed and mobility. Speed and mobility can help you to outmaneuver your enemy and gain an advantage.
+7. Use discipline. Discipline is essential for success in warfare. It is important to have your troops well-trained and disciplined in order to carry out your plans effectively.
+These lessons are not only applicable to warfare, but also to many other areas of life, such as business, sports, and personal relationships. By understanding and applying these lessons, you can increase your chances of success in any endeavor.
